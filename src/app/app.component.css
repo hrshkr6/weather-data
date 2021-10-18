@@ -1,0 +1,17 @@
+table{
+    margin: auto ;
+}
+th,td{
+    padding: 5px 10px;
+    border: 1px solid black;
+}
+th{
+    background-color: gray;
+}
+h1{
+    margin-bottom: 30px;
+  text-align: center;
+    font-size: 3.5rem;
+    text-transform: uppercase;
+    color: cornflowerblue;
+}
